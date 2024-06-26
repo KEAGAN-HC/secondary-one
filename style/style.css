@@ -1,0 +1,15 @@
+body {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.coming-soon {
+    color: black;
+    font-weight: bold;
+    font-size: 2em;
+}
